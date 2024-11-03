@@ -36,6 +36,8 @@ Mahasiswa diharapkan dapat:
 - Membuat **producer** dan **consumer** sederhana untuk mengalirkan dan menerima data sensor.
 - Melakukan pengolahan data dasar di **PySpark** dengan mengkonsumsi data dari Kafka, serta memfilter data berdasarkan kondisi tertentu.
 
+-----
+
 ## Penyelesaian
 ### Instalasi dan Persiapan Lingkungan
 1. **Instalasi WSL**  
@@ -60,7 +62,6 @@ Mahasiswa diharapkan dapat:
    ```
    sudo apt install python3 python3-pip
    sudo apt install python3-venv
-
    ```
 7. **Membuat Proyek Kafka**
    Buat direktori proyek Kafka:
@@ -125,7 +126,10 @@ Mahasiswa diharapkan dapat:
    ```
    python consumer.py
    ```
+
+----- 
+
 ## Hasil Penyelesaian
 <img src="attachment2/bigdata.jpg">
 
-   
+-----
